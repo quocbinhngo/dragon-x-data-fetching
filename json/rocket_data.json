@@ -1,0 +1,202 @@
+[
+    {
+        "NAME": "Vina Falcon",
+        "ROCKET_ID": 1,
+        "MANUFACTURER": "Bigelow Aerospace"
+    },
+    {
+        "NAME": "Origin Gema",
+        "ROCKET_ID": 2,
+        "MANUFACTURER": "Bigelow Aerospace"
+    },
+    {
+        "NAME": "Planet Gema",
+        "ROCKET_ID": 3,
+        "MANUFACTURER": "PLANET"
+    },
+    {
+        "NAME": "Earth Moon",
+        "ROCKET_ID": 4,
+        "MANUFACTURER": "ORBITAL INSIGHT"
+    },
+    {
+        "NAME": "Evil Face",
+        "ROCKET_ID": 5,
+        "MANUFACTURER": "PLANET"
+    },
+    {
+        "NAME": "Vina Blue",
+        "ROCKET_ID": 6,
+        "MANUFACTURER": "PLANET"
+    },
+    {
+        "NAME": "Evil Blue",
+        "ROCKET_ID": 7,
+        "MANUFACTURER": "SLINGSHOT AEROSPACE"
+    },
+    {
+        "NAME": "Gema Face",
+        "ROCKET_ID": 8,
+        "MANUFACTURER": "SPACEX"
+    },
+    {
+        "NAME": "Blue Face",
+        "ROCKET_ID": 9,
+        "MANUFACTURER": "Bigelow Aerospace"
+    },
+    {
+        "NAME": "Falcon Face",
+        "ROCKET_ID": 10,
+        "MANUFACTURER": "Bigelow Aerospace"
+    },
+    {
+        "NAME": "Earth Five",
+        "ROCKET_ID": 11,
+        "MANUFACTURER": "ROCKET LAB"
+    },
+    {
+        "NAME": "Blue Earth",
+        "ROCKET_ID": 12,
+        "MANUFACTURER": "Bigelow Aerospace"
+    },
+    {
+        "NAME": "Earth Sun",
+        "ROCKET_ID": 13,
+        "MANUFACTURER": "PLANET"
+    },
+    {
+        "NAME": "Five Blue",
+        "ROCKET_ID": 14,
+        "MANUFACTURER": "SPACEX"
+    },
+    {
+        "NAME": "Sky Planet",
+        "ROCKET_ID": 15,
+        "MANUFACTURER": "Lockheed Martin, Boeing and United Launch Alliance"
+    },
+    {
+        "NAME": "Sky Gema",
+        "ROCKET_ID": 16,
+        "MANUFACTURER": "GHGSAT"
+    },
+    {
+        "NAME": "Sun Blue",
+        "ROCKET_ID": 17,
+        "MANUFACTURER": "ROCKET LAB"
+    },
+    {
+        "NAME": "Sun Face",
+        "ROCKET_ID": 18,
+        "MANUFACTURER": "Bigelow Aerospace"
+    },
+    {
+        "NAME": "Five Moon",
+        "ROCKET_ID": 19,
+        "MANUFACTURER": "PLANET"
+    },
+    {
+        "NAME": "Blue Moon",
+        "ROCKET_ID": 20,
+        "MANUFACTURER": "LEOLABS"
+    },
+    {
+        "NAME": "Moon Blue",
+        "ROCKET_ID": 21,
+        "MANUFACTURER": "SLINGSHOT AEROSPACE"
+    },
+    {
+        "NAME": "Sky Sun",
+        "ROCKET_ID": 22,
+        "MANUFACTURER": "GHGSAT"
+    },
+    {
+        "NAME": "Sky Five",
+        "ROCKET_ID": 23,
+        "MANUFACTURER": "GHGSAT"
+    },
+    {
+        "NAME": "Falcon Gema",
+        "ROCKET_ID": 24,
+        "MANUFACTURER": "LEOLABS"
+    },
+    {
+        "NAME": "Falcon Five",
+        "ROCKET_ID": 25,
+        "MANUFACTURER": "Lockheed Martin, Boeing and United Launch Alliance"
+    },
+    {
+        "NAME": "Face Green",
+        "ROCKET_ID": 26,
+        "MANUFACTURER": "ORBITAL INSIGHT"
+    },
+    {
+        "NAME": "Sky Green",
+        "ROCKET_ID": 27,
+        "MANUFACTURER": "Bigelow Aerospace"
+    },
+    {
+        "NAME": "Falcon Sun",
+        "ROCKET_ID": 28,
+        "MANUFACTURER": "Bigelow Aerospace"
+    },
+    {
+        "NAME": "Moon Vina",
+        "ROCKET_ID": 29,
+        "MANUFACTURER": "Bigelow Aerospace"
+    },
+    {
+        "NAME": "Face Blue",
+        "ROCKET_ID": 30,
+        "MANUFACTURER": "ROCKET LAB"
+    },
+    {
+        "NAME": "Green Gema",
+        "ROCKET_ID": 31,
+        "MANUFACTURER": "SLINGSHOT AEROSPACE"
+    },
+    {
+        "NAME": "Earth Gema",
+        "ROCKET_ID": 32,
+        "MANUFACTURER": "Bigelow Aerospace"
+    },
+    {
+        "NAME": "Face Sun",
+        "ROCKET_ID": 33,
+        "MANUFACTURER": "RELATIVITY SPACE"
+    },
+    {
+        "NAME": "Blue Green",
+        "ROCKET_ID": 34,
+        "MANUFACTURER": "PLANET"
+    },
+    {
+        "NAME": "Green Sky",
+        "ROCKET_ID": 35,
+        "MANUFACTURER": "GHGSAT"
+    },
+    {
+        "NAME": "Five Earth",
+        "ROCKET_ID": 36,
+        "MANUFACTURER": "LEOLABS"
+    },
+    {
+        "NAME": "Green Planet",
+        "ROCKET_ID": 37,
+        "MANUFACTURER": "Virgin Galactic"
+    },
+    {
+        "NAME": "Face Earth",
+        "ROCKET_ID": 38,
+        "MANUFACTURER": "ROCKET LAB"
+    },
+    {
+        "NAME": "Blue Sun",
+        "ROCKET_ID": 39,
+        "MANUFACTURER": "Bigelow Aerospace"
+    },
+    {
+        "NAME": "Moon Falcon",
+        "ROCKET_ID": 40,
+        "MANUFACTURER": "Lockheed Martin, Boeing and United Launch Alliance"
+    }
+]
